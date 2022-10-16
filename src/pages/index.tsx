@@ -1,9 +1,9 @@
 import { GetStaticProps, NextPage } from "next";
 import { Container, useTheme } from "@nextui-org/react";
 
+import Seo from "../components/seo";
 import getPost from "../lib/getPost";
 import markdownToHtml from "../lib/markdownToHtml";
-import Head from "next/head";
 
 type Props = {
   children?: React.ReactNode;
@@ -15,9 +15,10 @@ const HomePage: NextPage<Props> = ({ content }) => {
 
   return (
     <>
-      <Head>
-        <title>Rob Moritz</title>
-      </Head>
+      <Seo
+        title="Rob Moritz - Lead Web Developer"
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      />
       <Container
         css={{ my: theme.space.xl.value }}
         justify="center"
