@@ -20,7 +20,7 @@ const HomePage: NextPage<Props> = ({ content }) => {
         description="A people-focused Senior Full-stack Developer with a passion for new tech, all things serverless, and reducing code. Experienced in architecting and delivering bespoke, end-to-end, scalable software solutions."
       />
       <Container
-        css={{ my: xl, maxWidth: xs }}
+        css={{ my: 'xl', maxWidth: 'xs' }}
         justify="center"
         display="flex"
       >
