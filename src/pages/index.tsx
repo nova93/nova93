@@ -17,7 +17,7 @@ const HomePage: NextPage<Props> = ({ content }) => {
     <>
       <Seo
         title="Rob Moritz - Lead Web Developer"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description="A people-focused Senior Full-stack Developer with a passion for new tech, all things serverless, and reducing code. Experienced in architecting and delivering bespoke, end-to-end, scalable software solutions."
       />
       <Container
         css={{ my: theme.space.xl.value }}
