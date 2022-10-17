@@ -16,11 +16,11 @@ const HomePage: NextPage<Props> = ({ content }) => {
   return (
     <>
       <Seo
-        title="Rob Moritz - Lead Web Developer"
+        title="Robert Moritz - Senior Full-stack Developer"
         description="A people-focused Senior Full-stack Developer with a passion for new tech, all things serverless, and reducing code. Experienced in architecting and delivering bespoke, end-to-end, scalable software solutions."
       />
       <Container
-        css={{ my: theme.space.xl.value }}
+        css={{ my: xl, maxWidth: xs }}
         justify="center"
         display="flex"
       >
