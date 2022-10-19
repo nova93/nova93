@@ -6,11 +6,7 @@ type Seo = {
   image?: string;
 };
 
-const Seo = ({
-  title,
-  description,
-  image = "https://robmoritz.me/social.jpg",
-}: Seo) => (
+const Seo = ({ title, description, image = "/social.jpg" }: Seo) => (
   <Head>
     <title>{title}</title>
     <meta name="title" content={title} />
