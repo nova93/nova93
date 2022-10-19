@@ -1,16 +1,16 @@
 import Head from "next/head";
 
 type Seo = {
-  title?: string;
+  title: string;
   description: string;
-  image: string;
+  image?: string;
 };
 
 const Seo = ({
   title,
   description,
-  image = "https://robmoritz.me/social-avatar.jpg",
-}) => (
+  image = "https://robmoritz.me/social.jpg",
+}: Seo) => (
   <Head>
     <title>{title}</title>
     <meta name="title" content={title} />
