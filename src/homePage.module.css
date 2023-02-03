@@ -1,0 +1,23 @@
+.avatarWrapper {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  gap: 1rem;
+  justify-content: center;
+  align-content: center;
+}
+
+.avatarWrapper h1 {
+  line-height: 48px;
+}
+
+.noMargin {
+  margin: 0;
+}
+
+.marginTop {
+  margin-top: 1rem;
+}
+
+.marginBottom {
+  margin-bottom: 1rem;
+}
