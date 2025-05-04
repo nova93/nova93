@@ -29,6 +29,13 @@ div {
 
 small {
   font-size: 0.75rem;
-  border: 1px solid red;
-  padding: 0 2px;
+
+  &.highlight {
+    border: 1px solid red;
+    padding: 0 2px;
+  }
+}
+
+section article, section hr {
+  margin-left: 1rem;
 }
