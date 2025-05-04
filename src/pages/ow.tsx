@@ -8,7 +8,8 @@ const MeowPage = () => (
     />
     <Nav />
     <p>meow?</p>
-    <img src="/cat.gif" width="200px" />
+    <img src="/cat.gif" width="200px" title="cat drinking coffee" />
+    <small><em>credit: <a href="https://giphy.com/hoppip/">@hoppip</a></em></small>
   </>
 )
 

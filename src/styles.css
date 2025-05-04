@@ -39,3 +39,7 @@ small {
 section article, section hr {
   margin-left: 1rem;
 }
+
+img {
+  display: block;
+}
