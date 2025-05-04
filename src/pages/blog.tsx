@@ -1,12 +1,8 @@
-import Nav from "../components/nav"
 import Seo from "../components/seo"
 
 const BlogPage = () => (
   <>
-    <Seo
-      title="blog - robmoritz.me"
-    />
-    <Nav />
+    <Seo title="blog - robmoritz.me" />
     <h1>blog</h1>
   </>
 )
