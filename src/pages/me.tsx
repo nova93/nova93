@@ -24,7 +24,7 @@ const MePage = () => (
       <h2>projects</h2>
       <article>
         <h3>
-          <small><em>duel tech, april &apos;25 +</em></small><br />
+          <small><em>duel tech, &apos;25</em></small><br />
           legacy fe migration/rebuild
         </h3>
         <p>&quot;micro-frontends&quot;, multi-domain app, proxy, css customizations, </p>
@@ -32,7 +32,7 @@ const MePage = () => (
       <hr />
       <article>
         <h3>
-          <small><em>ame system, april-may &apos;25 +</em></small><br />
+          <small><em>ame system, &apos;25 +</em></small><br />
           cad-esque visualization
         </h3>
         <p>a customizable product visualization</p>
@@ -40,7 +40,7 @@ const MePage = () => (
       <hr />
       <article>
         <h3>
-          <small><em>duel tech, dec &apos;24</em></small><br />
+          <small><em>duel tech, &apos;24</em></small><br />
           infrastructure review for 10x
         </h3>
         <p>investigation into performance bottlenecks in prep for 10x, what do we need to do to support the planned growth</p>
@@ -48,7 +48,7 @@ const MePage = () => (
       <hr />
       <article>
         <h3>
-          <small><em>leva, jan-june &apos;24</em></small><br />
+          <small><em>leva, &apos;24</em></small><br />
           rewrite of back-office tool
         </h3>
         <p>complete rethink of the back-end tool, built using retool (low-code tool)</p>
@@ -56,7 +56,7 @@ const MePage = () => (
       <hr />
       <article>
         <h3>
-          <small><em>leva, sep-dec &apos;23</em></small><br />
+          <small><em>leva, &apos;23</em></small><br />
           medical data collection
         </h3>
         <p>patient reported outcome metrics (proms), custom form builder, extensible and all the good things</p>
@@ -64,7 +64,7 @@ const MePage = () => (
       <hr />
       <article>
         <h3>
-          <small><em>oodle, mar-sep &apos;22</em></small><br />
+          <small><em>oodle, &apos;22</em></small><br />
           greenfield hub
         </h3>
         <p>micro-frontends hub</p>
@@ -72,7 +72,7 @@ const MePage = () => (
       <hr />
       <article>
         <h3>
-          <small><em>oodle, oct &apos;21 -feb &apos;22</em></small><br />
+          <small><em>oodle, &apos;22</em></small><br />
           micro-frontends migration
         </h3>
         <p>frontend monolith to micro-frontends</p>
