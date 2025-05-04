@@ -1,0 +1,34 @@
+html {
+  font-size: 1.5rem;
+  background: #022f40;
+  color: #DEDBD2;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+
+img {
+  border-radius: 50%;
+}
+
+a {
+  color: #AFA2FF;
+
+  &:hover {
+    color: #8b78ff;
+  }
+}
+
+div {
+  max-width: 600px;
+  width: 600px;
+}
+
+small {
+  font-size: 0.75rem;
+  border: 1px solid red;
+  padding: 0 2px;
+}

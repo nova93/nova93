@@ -1,10 +1,13 @@
-import { NextUIProvider } from "@nextui-org/react";
+import { Lato } from 'next/font/google';
+import '../styles.css';
+
+const lato = Lato({ weight: "400", subsets: ['latin'] })
 
 function MyApp({ Component, pageProps }) {
   return (
-    <NextUIProvider>
+    <main className={lato.className}>
       <Component {...pageProps} />
-    </NextUIProvider>
+    </main>
   );
 }
 

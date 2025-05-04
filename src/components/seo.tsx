@@ -2,7 +2,7 @@ import Head from "next/head";
 
 type Seo = {
   title: string;
-  description: string;
+  description?: string;
   image?: string;
 };
 

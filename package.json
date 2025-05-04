@@ -10,19 +10,15 @@
   "author": "Robert Moritz",
   "license": "ISC",
   "dependencies": {
-    "@nextui-org/react": "^1.0.0-beta.10",
-    "gray-matter": "^4.0.3",
-    "next": "^12.3.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "remark": "^13.0.0",
-    "remark-html": "^13.0.1"
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@types/node": "^18.11.0",
-    "@types/react": "^17.0.14",
-    "eslint": "^7.31.0",
-    "eslint-config-next": "^11.0.1",
-    "typescript": "^4.3.5"
+    "@types/node": "^22.15.3",
+    "@types/react": "^19.1.2",
+    "eslint": "^9.26.0",
+    "eslint-config-next": "^15.3.1",
+    "typescript": "^5.8.3"
   }
 }
