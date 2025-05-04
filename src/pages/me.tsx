@@ -13,7 +13,7 @@ const MePage = () => (
     <p>opportunities@robmoritz.me</p>
     <section>
       <h2>who am i</h2>
-      <p>i'm a dev, i solve problems, especially those which span multiple teams and functions. in my mind, a problem cannot be solved without a full understanding of it, which more often than not, has nothing to do with the company and everything to do with the end user</p>
+      <p>i&apos;m a dev, i solve problems, especially those which span multiple teams and functions. in my mind, a problem cannot be solved without a full understanding of it, which more often than not, has nothing to do with the company and everything to do with the end user</p>
       <p>here are some buzzwords for you: i hate silos; process is meant to help us, not hinder us; come to me with problems, not solutions, and let&apos;s work together on a solution; titles are meaningless; treat everyone with respect;</p>
     </section>
     <section>
@@ -27,7 +27,7 @@ const MePage = () => (
           <small><em>duel tech, april &apos;25 +</em></small><br />
           legacy fe migration/rebuild
         </h3>
-        <p>"micro-frontends", multi-domain app, proxy, css customizations, </p>
+        <p>&quot;micro-frontends&quot;, multi-domain app, proxy, css customizations, </p>
       </article>
       <hr />
       <article>
@@ -91,7 +91,7 @@ const MePage = () => (
           <small><em>before &apos;21</em></small><br />
           stuffs and things
         </h3>
-        <p>too long ago, don't remember specifics, so here's a brain dump</p>
+        <p>too long ago, don&apos;t remember specifics, so here&apos;s a brain dump</p>
       </article>
     </section>
   </>
