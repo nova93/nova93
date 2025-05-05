@@ -1,8 +1,8 @@
-import { Lato } from 'next/font/google';
-import Nav from '../components/nav';
-import '../styles.css';
+import { Lato } from "next/font/google";
+import Nav from "../components/nav";
+import "../styles.css";
 
-const lato = Lato({ weight: "400", subsets: ['latin'] })
+const lato = Lato({ weight: ["400", "700"], subsets: ["latin"] });
 
 function MyApp({ Component, pageProps }) {
   return (
