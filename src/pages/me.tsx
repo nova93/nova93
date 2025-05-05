@@ -33,7 +33,7 @@ const MePage = () => (
           <small><em>ame system, &apos;25 +</em></small><br />
           cad-esque visualization
         </h3>
-        <p>a small project, to build a customizable product (aluminium extrusion, so cool yea?) in shopify + visualization of user selection. reminded me of my attempts at unity dev. result is a dynamic svg.</p>
+        <p>a small project, to build a customizable product (aluminium extrusion, so cool yea?) in shopify + visualization of user selection. reminded me of my attempts at unity dev. result is a dynamic svg</p>
       </article>
       <hr />
       <article>
