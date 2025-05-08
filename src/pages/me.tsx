@@ -50,8 +50,9 @@ const MePage = () => (
         <p>
           Current project, a long project to migrate users to a new
           yet-to-be-built app, with an extra spicy wrench of multi-domain where
-          they are &quot;hardcoded&quot; into the iaas. ask me about it, since
-          it is developing fast
+          they are &quot;hardcoded&quot; into the IaaS. ask me about it, since
+          it is developing fast. Latest news: I&apos;ve built out a series of
+          proof of concepts to test the infrastructure migration
         </p>
       </article>
       <hr />
