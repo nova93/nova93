@@ -5,7 +5,7 @@ const AiNativePage = () => (
     <Seo title="AI-native - robmoritz.me" />
     <h1>
       <small>
-        <small>May &apos;25</small>
+        <small>8th May &apos;25</small>
       </small>
       <br />
       Push for AI-native
