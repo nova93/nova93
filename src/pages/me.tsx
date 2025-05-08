@@ -9,38 +9,46 @@ const MePage = () => (
     <section>
       <h2>who am i</h2>
       <p>
-        i&apos;m a dev, i solve problems, especially those which span multiple
-        teams and functions. in my mind, a problem cannot be solved without a
-        full understanding of it, which more often than not, has nothing to do
-        with the company and everything to do with the end user
+        I&apos;m a dev, I solve problems, especially those which span multiple
+        teams and functions. In my mind, a problem cannot be solved without a
+        full understanding of it, which more often than not, has everything to
+        do with the end user. User experience is front and center, and the
+        beginning of everything I do.
       </p>
       <p>
-        here are some buzzwords for you: i hate silos; process is meant to help
-        us, not hinder us; come to me with problems, not solutions, and
-        let&apos;s work together on a solution; titles are meaningless; treat
-        everyone with respect;
+        Here are some snippets to get to know me better: I hate silos; process
+        is meant to help us, not hinder us; Come to me with problems, not
+        solutions, and let&apos;s work together on a solution; Titles are
+        meaningless; Treat everyone with respect;
       </p>
     </section>
     <section>
       <h2>core</h2>
       <p>
-        javascript, typescript, node.js, react.js, next.js, apollo graphql,
-        serverless, event-driven and transactional architectures, mongodb,
-        postgresql, rest, test-driven development, ci/cd pipelines
+        Javascript, Typescript, Node.js, React.js, next.js, Apollo Graphql,
+        Serverless, Event-driven and transactional architectures, MongoDB,
+        PostgreSQL, RESTful, test-driven development, CI/CD pipelines
       </p>
     </section>
     <section>
       <h2>projects</h2>
+      <p>
+        While I&apos;ve been a full-time employee for years, I doubt anyone
+        wants to know that I spent 3 months in meetings, trying to ensure the
+        designs were actually solving the problem and not a vanity refresh. As
+        such, I&apos;ll lay out just the cool parts of my job, which I&apos;d
+        love to talk to you about.
+      </p>
       <article>
         <h3>
           <small>
             <em>duel tech, &apos;25</em>
           </small>
           <br />
-          legacy fe migration/rebuild
+          legacy frontend migration/rebuild
         </h3>
         <p>
-          current project, a long project to migrate users to a new
+          Current project, a long project to migrate users to a new
           yet-to-be-built app, with an extra spicy wrench of multi-domain where
           they are &quot;hardcoded&quot; into the iaas. ask me about it, since
           it is developing fast
@@ -56,9 +64,9 @@ const MePage = () => (
           cad-esque visualization
         </h3>
         <p>
-          a small project, to build a customizable product (aluminium extrusion,
-          so cool yea?) in shopify + visualization of user selection. reminded
-          me of my attempts at unity dev. result is a dynamic svg
+          A small project, to build a customizable product (aluminium extrusion,
+          so cool yea?) in shopify + visualization of user selection. Reminded
+          me of my attempts at unity dev. Result is a dynamic svg
         </p>
       </article>
       <hr />
@@ -71,12 +79,12 @@ const MePage = () => (
           infrastructure review for 10x
         </h3>
         <p>
-          investigation into performance bottlenecks in prep for 10x, what do we
-          need to do to support the planned growth. looked at heroku dynos, aws
-          elastibeanstalks, mongodb cluster, using iaas metrics paired with
-          elastic apm. looked at the current situation, options for the future +
-          ceilings (vercel is cool for small traffic, but costs grow quickly, or
-          heroku can have max of n dynos per app)
+          Investigation into performance bottlenecks in prep for 10x, what do we
+          need to do to support the planned growth. Looked at Heroku dynos, AWS
+          Elastibeanstalks, MongoDB cluster, using IaaS metrics paired with
+          Elastic APM. looked at the current situation, options for the future +
+          ceilings (Vercel is cool for small traffic, but costs grow quickly, or
+          Heroku can have max of n dynos per app)
         </p>
       </article>
       <hr />
@@ -89,8 +97,8 @@ const MePage = () => (
           duckdb ui
         </h3>
         <p>
-          frontend + web assembly duckdb, for running analytics pipelines
-          locally. a data scientist + me, but then duckdb ui came out, which was
+          Frontend + web assembly DuckDB, for running analytics pipelines
+          locally. a data scientist + me, but then DuckDB ui came out, which was
           exactly what we were building
         </p>
       </article>
@@ -104,7 +112,7 @@ const MePage = () => (
           rewrite of back-office tool
         </h3>
         <p>
-          (tech) led a complete rethink of the back-end tool, built using retool
+          (Tech) led a complete rethink of the back-end tool, built using Retool
           (low-code tool)
         </p>
       </article>
@@ -118,10 +126,10 @@ const MePage = () => (
           medical data collection (medical cannabis)
         </h3>
         <p>
-          patient reported outcome metrics (proms), custom form builder,
+          Patient reported outcome metrics (PROMs), custom form builder,
           extensible and all the good things, paired with very specific medical
-          science requirements. heavily regulated space, and data sharing
-          agreements (gov)
+          science requirements. Heavily regulated space, with government data
+          sharing agreements
         </p>
       </article>
       <hr />
@@ -134,8 +142,8 @@ const MePage = () => (
           greenfield hub
         </h3>
         <p>
-          (tech) led a team to build a new project using micro-frontends
-          architecture from below. all the usual greenfield problems were on my
+          (Tech) led a team to build a new project using micro-frontends
+          architecture from below. All the usual greenfield problems were on my
           shoulders (such as, what&apos;s the problem we are trying to solve
           here?)
         </p>
@@ -150,7 +158,7 @@ const MePage = () => (
           micro-frontends migration
         </h3>
         <p>
-          designed micro-frontends solution to a specific problem (3 search
+          Designed micro-frontends solution to a specific problem (3 search
           experiences, which could be unified), which ended up being used across
           the board in prep for massive hiring push (and then covid happened)
         </p>
@@ -165,8 +173,9 @@ const MePage = () => (
           bff model
         </h3>
         <p>
-          designed, presented, got approved and facilitated migration from ELB
-          micro-services to bff model on serverless. nodejs + apollo graphql
+          Designed, presented, got approved and facilitated migration from ELB
+          micro-services to the BFF model on serverless. Node.js + Apollo
+          GraphQL
         </p>
       </article>
       <hr />
@@ -179,13 +188,13 @@ const MePage = () => (
           stuffs and things
         </h3>
         <p>
-          too long ago, don&apos;t remember specifics, so here&apos;s a brain
-          dump: a lot of shopify, wordpress and static sites. mysql, php,
-          apache, bare-metal servers. as nds (me+designer), we build out shops
+          Too long ago, don&apos;t remember specifics, so here&apos;s a brain
+          dump: a lot of Shopify, Wordpress and static sites. MySQL, PHP,
+          Apache, bare-metal servers. as NDS (me+designer), we build out shops
           selling everything from candles, to luxurious furniture and fitness
           equipment (shipping calculations on those are nigh on impossible, but
-          that might be due to lack of will to compromise). projects across the
-          world: australia, usa, europe, so a lot of timezones + currencies
+          that might be due to lack of will to compromise). Projects across the
+          world: Australia, USA, Europe, so a lot of timezones + currencies
         </p>
       </article>
     </section>
