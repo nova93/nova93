@@ -23,10 +23,10 @@ const AiNativePage = () => (
     </p>
     <p>
       What is new (to me at least) are the changes it caused to my day-to-day
-      life. the other day, "the business" (AKA my employer) shared their goals.
-      As teams and individuals it&apos;s our job to figure out how we can
-      contribute towards those goals. That&apos;s why we got hired, that&apos;s
-      why they send us money every month
+      life. the other day, &quot;the business&quot; (AKA my employer) shared
+      their goals. As teams and individuals it&apos;s our job to figure out how
+      we can contribute towards those goals. That&apos;s why we got hired,
+      that&apos;s why they send us money every month
     </p>
     <p>
       The first goal was become &quot;AI-native&quot;. That gave me pause,
