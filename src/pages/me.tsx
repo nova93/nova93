@@ -206,8 +206,8 @@ const MePage = () => (
         </h3>
         <p>
           Used-car search experience, as a part of wider car loan pipeline.
-          Amazing customer-centric product, since we weren't selling cars, but
-          loans, so the job was the find our customers the best possible car
+          Amazing customer-centric product, since we weren&apos;t selling cars,
+          but loans, so the job was the find our customers the best possible car
           within their loan amount
         </p>
       </article>
