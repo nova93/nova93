@@ -137,6 +137,22 @@ const MePage = () => (
       <article>
         <h3>
           <small>
+            <em>leva, &apos;23</em>
+          </small>
+          <br />
+          rebuild engineering processes
+        </h3>
+        <p>
+          Leva was going through a big shift, and the culture (as well as code
+          quality) dropped significantly. Re-structured the engineering
+          department to be more efficient. Fixed processes and opened up comms
+          and transparency, especially between engineering and product.
+        </p>
+      </article>
+      <hr />
+      <article>
+        <h3>
+          <small>
             <em>oodle, &apos;22</em>
           </small>
           <br />
@@ -171,7 +187,7 @@ const MePage = () => (
             <em>oodle, &apos;21</em>
           </small>
           <br />
-          bff model
+          backend-for-frontend (BFF) model
         </h3>
         <p>
           Designed, presented, got approved and facilitated migration from ELB
@@ -183,7 +199,23 @@ const MePage = () => (
       <article>
         <h3>
           <small>
-            <em>before &apos;21</em>
+            <em>oodle, &apos;19</em>
+          </small>
+          <br />
+          car search experience
+        </h3>
+        <p>
+          Used-car search experience, as a part of wider car loan pipeline.
+          Amazing customer-centric product, since we weren't selling cars, but
+          loans, so the job was the find our customers the best possible car
+          within their loan amount
+        </p>
+      </article>
+      <hr />
+      <article>
+        <h3>
+          <small>
+            <em>before &apos;19</em>
           </small>
           <br />
           stuffs and things
