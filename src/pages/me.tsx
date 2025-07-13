@@ -33,7 +33,7 @@ const MePage = () => (
     <section>
       <h2>projects</h2>
       <p>
-        While I&apos;ve been a full-time employee for years now, I try to define my work in terms of projects, which I'm outlining below. I've generally been working in a Scrum team, lately, we've been experimenting with Shape Up.
+        While I&apos;ve been a full-time employee for years now, I try to define my work in terms of projects, which I&apos;m outlining below. I&apos;ve generally been working in a Scrum team, lately, we&apos;ve been experimenting with Shape Up.
       </p>
       <article>
         <h3>
