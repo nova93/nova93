@@ -2,10 +2,10 @@ import Link from "next/link";
 
 const Nav = () => (
   <nav>
-    <Link href="/me">me</Link> | <Link href="/blog">blog</Link>
+    <Link href="/me">me</Link>
     <br />
     <small className="highlight">
-      i&apos;m looking for a cool(er) job, shout if you know one
+      i&apos;m looking for a cool job, shout if you know one
     </small>
   </nav>
 );

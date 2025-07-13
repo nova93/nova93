@@ -25,19 +25,15 @@ const MePage = () => (
     <section>
       <h2>core</h2>
       <p>
-        Javascript, Typescript, Node.js, React.js, next.js, Apollo Graphql,
+        Javascript, Typescript, Node.js, React.js, Next.js, Apollo Graphql,
         Serverless, Event-driven and transactional architectures, MongoDB,
-        PostgreSQL, RESTful, test-driven development, CI/CD pipelines
+        PostgreSQL, RESTful, Test-driven development, CI/CD pipelines
       </p>
     </section>
     <section>
       <h2>projects</h2>
       <p>
-        While I&apos;ve been a full-time employee for years, I doubt anyone
-        wants to know that I spent 3 months in meetings, trying to ensure the
-        designs were actually solving the problem and not a vanity refresh. As
-        such, I&apos;ll lay out just the cool parts of my job, which I&apos;d
-        love to talk to you about.
+        While I&apos;ve been a full-time employee for years now, I try to define my work in terms of projects, which I'm outlining below. I've generally been working in a Scrum team, lately, we've been experimenting with Shape Up.
       </p>
       <article>
         <h3>
@@ -50,9 +46,8 @@ const MePage = () => (
         <p>
           Current project, a long project to migrate users to a new
           yet-to-be-built app, with an extra spicy wrench of multi-domain where
-          they are &quot;hardcoded&quot; into the IaaS. ask me about it, since
-          it is developing fast. Latest news: I&apos;ve built out a series of
-          proof of concepts to test the infrastructure migration
+          they are &quot;hardcoded&quot; into the infrastructure. Ask me about it, since
+          it is developing fast. Latest news: Setup reverse proxy micro-frontends to enable us to test our product assumptions with selected beta users.
         </p>
       </article>
       <hr />
@@ -67,7 +62,7 @@ const MePage = () => (
         <p>
           A small project, to build a customizable product (aluminium extrusion,
           so cool yea?) in shopify + visualization of user selection. Reminded
-          me of my attempts at unity dev. Result is a dynamic svg
+          me of my attempts at Unity dev. Result is a dynamic SVG
         </p>
       </article>
       <hr />
@@ -83,7 +78,7 @@ const MePage = () => (
           Investigation into performance bottlenecks in prep for 10x, what do we
           need to do to support the planned growth. Looked at Heroku dynos, AWS
           Elastibeanstalks, MongoDB cluster, using IaaS metrics paired with
-          Elastic APM. looked at the current situation, options for the future +
+          Elastic APM. Looked at the current situation, options for the future +
           ceilings (Vercel is cool for small traffic, but costs grow quickly, or
           Heroku can have max of n dynos per app)
         </p>
