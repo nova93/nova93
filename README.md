@@ -1,4 +1,4 @@
-[me](https://robmoritz.me/me) | [blog](https://robmoritz.me/blog)
+[me](https://robmoritz.me/me)
 
 # rob moritz
 
